@@ -1,0 +1,55 @@
+.transaction-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 1rem;
+}
+
+.transaction-form__row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  margin-bottom: 1rem;
+}
+
+.transaction-form__column {
+  display: flex;
+  flex-direction: column;
+  width: 45%;
+}
+
+.transaction-form__label {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 0.5rem;
+}
+
+.transaction-form__input,
+.transaction-form__select {
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 0.25rem;
+  font-size: 1rem;
+  margin-top: 0.25rem;
+}
+
+.transaction-form__button {
+  padding: 0.5rem;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 0.25rem;
+  font-size: 1rem;
+  margin-top: 1rem;
+  cursor: pointer;
+}
+
+.transaction-form__button:hover {
+  background-color: #0069d9;
+}
+
+.total_transaction_text{
+  color: #6c34e3;
+  font-size:1rem;
+}

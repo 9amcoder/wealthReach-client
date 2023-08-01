@@ -1,0 +1,33 @@
+
+.navigation-container {
+    display: flex;
+    justify-content: center;
+    background-color: #6fb4bf;
+    border-radius: 20px;
+    margin: 10px;
+  }
+  
+  .navigation-list {
+    display: flex;
+    list-style: none;
+    margin: 9px;
+    padding: 0;
+  }
+  
+  .navigation-item {
+    margin: 0 10px;
+  }
+  
+  .navigation-item a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 10px;
+    border-radius: 20px;
+  }
+  
+  .navigation-item a:hover {
+    background-color: #555;
+  }
