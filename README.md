@@ -2,6 +2,14 @@
 
 This is a sample project that can track personal financial record.
 
+## Table of Contents
+
+
+- [Installation](#installation)
+- [Tech stack](#tech-stack)
+- [Screenshots](#screenshots)
+- [Deceleration](#deceleration)
+
 ## Installation
 
 To install this project, clone the repository and run the following command:
@@ -10,16 +18,23 @@ To install this project, clone the repository and run the following command:
 
 `npm run dev`
 
+## Tech stack
 
-This project is built with:
+- React Vite
+- Recoil
+
+## Dependencies
 ```
     "axios": "^1.4.0",
     "recoil": "^0.7.7",
     "styled-components": "^6.0.5",
     "wouter": "^2.11.0"
 ```
+## Screenshots
 
-#### Decleration:
+
+
+## Deceleration:
 
 This is final project for 
 
