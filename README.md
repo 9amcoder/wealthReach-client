@@ -31,7 +31,11 @@ To install this project, clone the repository and run the following command:
     "wouter": "^2.11.0"
 ```
 ## Screenshots
+<img width="590" alt="Screenshot 2023-07-31 at 10 19 03 PM" src="https://github.com/9amcoder/wealthReach-client/assets/59545545/d79ef549-3dd6-494a-9aae-0e684bdbedde">
+<img width="590" alt="Screenshot 2023-07-31 at 10 19 58 PM" src="https://github.com/9amcoder/wealthReach-client/assets/59545545/ca711a5c-36ad-458c-93c3-f525a91535f2">
+<img width="590" alt="Screenshot 2023-07-31 at 10 20 40 PM" src="https://github.com/9amcoder/wealthReach-client/assets/59545545/161564ce-1eb0-44c9-a102-94af9eb43b5e">
 
+<img width="590" alt="Screenshot 2023-07-31 at 10 21 12 PM" src="https://github.com/9amcoder/wealthReach-client/assets/59545545/406f23ed-b917-43bc-bb95-c43322ea2f56">
 
 
 ## Deceleration:
